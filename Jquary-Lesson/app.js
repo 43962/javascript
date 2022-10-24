@@ -15,6 +15,10 @@
 //   });
 // });
 
+// $(function(){
+//   $('.box1').slideDown();
+// });
+
 $(function(){
-  $('.box1').slideDown();
+  $('.box1').slideUp();
 });
